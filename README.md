@@ -1,6 +1,6 @@
 # Proyecto EIT Curso GIT 13/11/2021
 
-Repositorio creado en la clase de 13-11-2021.
+Repositorio creado en la clase de 13-11-2021, curso de EIT.
 
 ## Installation
 
