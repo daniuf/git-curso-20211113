@@ -6,6 +6,8 @@ Repositorio creado en la clase de 13-11-2021.
 
 Acá vamos a documentar cómo instalar el proyecto
 
+./instalar.sh
+
 ## Usage
 
 Como usar el proyecto
