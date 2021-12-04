@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 - Trabajando en modulo de login
+- Modulo reportes
 
 ## [1.0.0] - 2021-11-13
 ### Added
